@@ -2,10 +2,10 @@ p{
     width: 350px;
     height: 220px;
     background-color: green;
-    padding-top: 15;
-    padding-left: 10;
-    padding-right: 10;
-    padding-bottom: 20;
-    margin: 30;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    margin: 30px;
     border: 2px dotted red;
 }
